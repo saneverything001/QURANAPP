@@ -1,0 +1,12 @@
+
+> bolt-expo-starter@1.0.0 dev:web
+> expo start --web --port 8082
+
+Starting project at C:\Users\Imam\Documents\Codex\2026-05-19\files-mentioned-by-the-user-qurapp\QurApp-main
+Starting Metro Bundler
+Waiting on http://localhost:8082
+Logs for your project will appear below.
+Web node_modules\expo-router\entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web node_modules\expo-router\entry.js ▓▓▓▓▓▓▓▓▓▓▓░░░░░ 74.6% (616/714)
+Web Bundled 6138ms node_modules\expo-router\entry.js (2551 modules)
+ LOG  [web] Logs will appear in the browser console

@@ -1,0 +1,7 @@
+
+> bolt-expo-starter@1.0.0 dev:web
+> expo start --web --port 8081
+
+Starting project at C:\Users\Imam\Documents\Codex\2026-05-19\files-mentioned-by-the-user-qurapp\QurApp-main
+› Port 8081 is being used by another process
+› Skipping dev server
